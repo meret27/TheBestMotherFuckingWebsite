@@ -1,0 +1,40 @@
+em
+{
+    color: rgb(83, 8, 8)
+    
+}
+em
+{
+    font-style: normal ;
+}
+strong
+{
+    color: rgb(184, 3, 3) 
+    
+}
+strong
+{
+text-decoration: underline;
+}
+body
+{
+    margin-right: 10cm;
+    margin-left: 10cm;
+}
+h1
+{
+    font-size: 38px;
+}
+h2
+{
+    font-size: 28px;
+}
+h3
+{
+    font-size: 22px;
+}
+p, blockquote,ul
+{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
